@@ -42,7 +42,7 @@ The script will check for these automatically:
 
 ```bash
 # Download and run the installer
-wget https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install-improved-osk.sh
+wget https://raw.githubusercontent.com/wowitsjack/main/install-improved-osk.sh
 chmod +x install-improved-osk.sh
 ./install-improved-osk.sh
 ```
@@ -51,7 +51,7 @@ chmod +x install-improved-osk.sh
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/wowitsjack/Disable-OSK-PopOS
 cd YOUR_REPO
 
 # Run the installer
