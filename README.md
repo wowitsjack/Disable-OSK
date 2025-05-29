@@ -52,7 +52,7 @@ chmod +x install-improved-osk.sh
 ```bash
 # Clone this repository
 git clone https://github.com/wowitsjack/Disable-OSK-PopOS
-cd YOUR_REPO
+cd Disable-OSK-PopOS
 
 # Run the installer
 ./install-improved-osk.sh
